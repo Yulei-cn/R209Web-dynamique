@@ -1,0 +1,19 @@
+MVC 
+Mmodele
+Nves->templates
+Controleur -> views.py
+
+class de données--------------------class de formules
+
+
+C   Create
+R   Read
+U   update
+D   delete
+
+
+
+http://127.0.0.1:8000/bilbil/index
+protocole:  http
+@:prat:     127.0.0.1:8000
+URL:        /bilbil/index
