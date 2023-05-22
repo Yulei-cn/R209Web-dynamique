@@ -19,15 +19,7 @@ protocole:  http
 URL:        /bilbil/index
 
 
+PS U:\Bureau\R209> python -m django startproject firstproject
+PS U:\Bureau\R209> cd .\firstproject\
+PS U:\Bureau\R209\firstproject> python manage.py runserver
 
-C:\Users\e2203939\Desktop>u:
-U:\>cd Documents
-U:\Documents>cd pythonProject1
-U:\Documents\pythonProject1>cd venv   
-U:\Documents\pythonProject1\venv>cd Scripts
-U:\Documents\pythonProject1\venv\Scripts>activate  
-(venv) U:\Documents\pythonProject1\venv\Scripts>cd ../..
-
-(venv) U:\Documents\pythonProject1>cd firstproject
-
-(venv) U:\Documents\pythonProject1\firstproject>python manage.py startapp bibliotheque
