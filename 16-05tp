@@ -22,4 +22,4 @@ URL:        /bilbil/index
 PS U:\Bureau\R209> python -m django startproject firstproject
 PS U:\Bureau\R209> cd .\firstproject\
 PS U:\Bureau\R209\firstproject> python manage.py runserver
-
+PS U:\Bureau\R209\firstproject> python manage.py startapp myfirstapp
