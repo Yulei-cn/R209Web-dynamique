@@ -23,3 +23,11 @@ PS U:\Bureau\R209> python -m django startproject firstproject
 PS U:\Bureau\R209> cd .\firstproject\
 PS U:\Bureau\R209\firstproject> python manage.py runserver
 PS U:\Bureau\R209\firstproject> python manage.py startapp myfirstapp
+
+
+解释
+<form method="post" action="/bibliotheque/traitement/">
+{% csrf_token %}
+{{ form.as_ul }} <!-- permet d'afficher tous les champs sous forme d'une liste
+-->
+<input type="submit" value="envoyer␣les␣données"\>
